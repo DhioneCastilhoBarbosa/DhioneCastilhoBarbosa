@@ -19,8 +19,9 @@
  
 <div align="center"> 
   
-   <a href = "https://www.dhionecastilho.com.br/">Site</a>
+   
   <a href = "mailto:dhione.cb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.dhionecastilho.com.br/"><img src="https://img.shields.io/website/http/www.website.com/path/to/page.html.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dhione-castilho-barbosa-45462961/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
