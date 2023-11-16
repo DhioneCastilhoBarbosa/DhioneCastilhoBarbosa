@@ -39,8 +39,7 @@ Estou aberto a novas oportunidades, desafios e conexões no mundo da tecnologia.
 
 <div align="center" display= "flex"> 
   
-  <a href = "mailto:dhione.cb@gmail.com"><img height="30" width ="" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+  <a href="mailto:dhione.cb@gmail.com"><img height="30" width ="" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dhione-castilho-barbosa-45462961/" target="_blank"><img 
   height="30"
   src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
