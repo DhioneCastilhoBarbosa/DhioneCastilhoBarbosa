@@ -4,13 +4,12 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1200&color=22D3EE&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Dhione+%F0%9F%91%8B;Frontend+%2B+Go+%7C+React+%26+TypeScript;Construindo+produtos+para+mobilidade+el%C3%A9trica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Dhione+%F0%9F%91%8B;Fullstack+Developer;React+%2B+TypeScript+%2B+Go" alt="Typing SVG" />
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Intelbras-Product%20Dev-0A1628?style=for-the-badge&logo=intel&logoColor=22D3EE" alt="Intelbras" />
-  <img src="https://img.shields.io/badge/Florian%C3%B3polis%2C%20Brasil-111827?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-0EA5E9?style=for-the-badge&logo=gnubash&logoColor=white" alt="Fullstack Developer" />
+  <img src="https://img.shields.io/badge/Palho%C3%A7a%2DSC-111827?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location" />
 
 </div>
 
@@ -18,10 +17,10 @@
 
 ### ⚡ Quem sou eu
 
-Mestre em **Mecatrônica Industrial** e desenvolvedor com trajetória em hardware, firmware e software.  
-Hoje foco em **interfaces modernas** e **APIs robustas** — especialmente no ecossistema de **recarga de veículos elétricos (OCPP / CSMS)**.
+Mestre em **Mecatrônica Industrial** e **desenvolvedor fullstack** com trajetória em hardware, firmware e software.  
+Hoje construo aplicações de ponta a ponta — **interfaces modernas**, **APIs robustas** e **apps desktop**, com React, TypeScript e Go.
 
-> Do sensor embarcado ao dashboard em produção: eu conecto o físico ao digital.
+> Do frontend ao backend: produto digital com visão de sistema completo.
 
 <p align="center">
   <a href="https://www.dhionecastilho.com.br" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
@@ -157,10 +156,10 @@ Produtos e serviços que representam melhor o que eu entrego hoje.
 
 ## 🎯 Em que posso ajudar
 
-- **Frontends** performáticos com React + TypeScript + Vite  
+- **Soluções fullstack** com React, TypeScript, Vite e Go  
+- **Frontends** performáticos e APIs bem estruturadas  
 - **Apps desktop** com Electron e integração com hardware  
-- **APIs** em Go (Gin, Postgres, Redis, Kafka)  
-- **Sistemas OCPP / CSMS** para mobilidade elétrica  
+- **Backend** com Gin, Postgres, Redis e Kafka  
 - **Ponte** entre firmware, IoT e produto digital  
 
 ---
@@ -169,8 +168,8 @@ Produtos e serviços que representam melhor o que eu entrego hoje.
 
 ### 📬 Vamos conversar?
 
-Aberto a **oportunidades**, desafios e colaborações.  
-Se procura alguém que une **produto, software e domínio de EV**, bora conversar.
+Aberto a **desafios e colaborações**.  
+Se procura um **desenvolvedor fullstack** que une produto e engenharia, bora conversar.
 
 <br/>
 
