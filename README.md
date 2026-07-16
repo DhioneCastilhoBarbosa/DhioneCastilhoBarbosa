@@ -141,8 +141,8 @@ Produtos e serviços que representam melhor o que eu entrego hoje.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DhioneCastilhoBarbosa&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhioneCastilhoBarbosa&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E5E7EB" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=DhioneCastilhoBarbosa&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhioneCastilhoBarbosa&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E5E7EB" alt="Top Languages" />
 </div>
 
 <div align="center">
