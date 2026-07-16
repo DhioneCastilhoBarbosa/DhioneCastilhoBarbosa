@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Dhione+%F0%9F%91%8B;Frontend+%2B+Go+%7C+React+%26+TypeScript;Construindo+produtos+para+mobilidade+el%C3%A9trica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1200&color=22D3EE&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Dhione+%F0%9F%91%8B;Frontend+%2B+Go+%7C+React+%26+TypeScript;Construindo+produtos+para+mobilidade+el%C3%A9trica" alt="Typing SVG" />
 
   <br/>
 
