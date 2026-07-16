@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Dhione+%F0%9F%91%8B;Frontend+%2B+Go+%7C+React+%26+TypeScript;Construindo+produtos+para+mobilidade+el%C3%A9trica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1200&color=22D3EE&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Dhione+%F0%9F%91%8B;Frontend+%2B+Go+%7C+React+%26+TypeScript;Construindo+produtos+para+mobilidade+el%C3%A9trica" alt="Typing SVG" />
 
   <br/>
 
@@ -141,8 +141,8 @@ Produtos e serviços que representam melhor o que eu entrego hoje.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DhioneCastilhoBarbosa&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhioneCastilhoBarbosa&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E5E7EB" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=DhioneCastilhoBarbosa&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhioneCastilhoBarbosa&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E5E7EB" alt="Top Languages" />
 </div>
 
 <div align="center">
